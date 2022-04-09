@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Márcia Alves
 
 
-- 🔭 Profissional Full Stack web development
-- 🌱 Estudando Full Stack web development
+- 🔭 Profissional Software Engineer Jr
+- 🌱 Estudando Java, SpringBoot
 - 😄 Pronouns: ela/dela
 
 <div align="center">
